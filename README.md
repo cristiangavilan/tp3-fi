@@ -37,3 +37,5 @@ En nuestro caso, usaremos Maps de Google (basado en Javascript), YouTube, Instag
 
 
 #### *Integrantes: Eugenia Sepulveda, Cristian Gavilan.*
+
+Eugena se unio, Bravo!!!
