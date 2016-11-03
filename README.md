@@ -1,4 +1,4 @@
-# ** Trabajo Práctico N°3 - Sistemas Gestores de Contenido **
+# Trabajo Práctico N°3 - Sistemas Gestores de Contenido
 ## _Implementación y extensión de un CMS aplicado a un caso real._
 
 ## Dominio:  **RoadTrip**
